@@ -24,19 +24,19 @@ for tweet in tweets:
     
     if any(keyword in tweet_text for keyword in bjp_keywords):
         if sentiment == "positive":
-            score_bjp['positive'] += int(float(likes))
+            score_bjp['positive'] += 1
         elif sentiment == "negative":
-            score_bjp['negative'] +=int(float(likes))
+            score_bjp['negative'] +=1
         elif sentiment == "neutral":
-            score_bjp['neutral'] += int(float(likes))
+            score_bjp['neutral'] += 1
             
     elif any(keyword in tweet_text for keyword in congress_keywords):
         if sentiment == "positive":
-            score_congress['positive'] += int(float(likes))
+            score_congress['positive'] += 1
         elif sentiment == "negative":
-            score_congress['negative'] += int(float(likes))
+            score_congress['negative'] += 1
         elif sentiment == "neutral":
-            score_congress['neutral'] += int(float(likes))
+            score_congress['neutral'] += 1
 
 print("BJP Scores:", score_bjp)
 print("Congress Scores:", score_congress)
