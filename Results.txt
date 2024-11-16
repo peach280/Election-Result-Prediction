@@ -5,7 +5,6 @@ It may also mean bot accounts were used to like the tweets.
 In some of the reports(like the one taken by sentiment) Congress was seen as winner.
 Overall the competition is expected to be tight.
 
-
 This analysis provides a preliminary prediction based on sentiment scores, but it should be complemented with other factors
 such as ground realities, campaign strategies, and voter turnout to make a more accurate prediction.It's important to
 note that sentiment analysis can be subject to various biases and fluctuations
