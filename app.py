@@ -13,8 +13,8 @@ def read_tweets(file_path:str) -> list[dict[str,str]]:
 tweets=read_tweets("./tweet_sentiments.csv")
 score_bjp = {'positive': 0, 'negative': 0, 'neutral': 0}
 score_congress = {'positive': 0, 'negative': 0, 'neutral': 0}
-bjp_keywords = ["BJP", "Mahayuti","Modi","Hindu"]
-congress_keywords = ["Aghadi", "MVA", "INC", "shivsena", "ncp", "Thackeray","Muslim"]
+bjp_keywords = ["BJP", "Mahayuti","Modi","Eknath Shinde","Ajit Pawar"]
+congress_keywords = ["Aghadi", "MVA", "INC", "Thackeray","Sharad Pawar"]
 for tweet in tweets:
     tweet_text, likes, sentiment,retweets = tweet["text"], tweet["likes"], tweet["sentiment"],tweet["retweets"]
     try:
