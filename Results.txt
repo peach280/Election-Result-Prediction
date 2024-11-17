@@ -1,22 +1,13 @@
-<<<<<<< HEAD
+
 Based on the twitter sentiment analysis, it can be predicted that BJP(Mahayuti coalition) is likely to perform better in the
 upcoming election compared to Congress(MVA Alliance), given the more favorable sentiment reflected in the scores.
-=======
-Based on the twitter sentiment analysis, it can be predicted that BJP is likely to perform better in the upcoming election
-compared to Congress, given the more favorable sentiment reflected in the scores.
->>>>>>> origin/master
-It may also mean bot accounts were used to like the tweets.
 
-In some of the reports(like the one taken by sentiment) Congress was seen as winner.
+It may also mean bot accounts were used to like the tweets.
+In one of the reports(like the one taken by sentiment) Congress was seen as winner.
 Overall the competition is expected to be tight.
 
-<<<<<<< HEAD
 
 This analysis provides a preliminary prediction based on sentiment scores, but it should be complemented with other factors
 such as ground realities, campaign strategies, and voter turnout to make a more accurate prediction.It's important to
 note that sentiment analysis can be subject to various biases and fluctuations
-=======
-This analysis provides a preliminary prediction based on sentiment scores, but it should be complemented with other factors
-such as ground realities, campaign strategies, and voter turnout to make a more accurate prediction.It's important to
-note that sentiment analysis can be subject to various biases and fluctuations
->>>>>>> origin/master
+
