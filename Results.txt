@@ -3,6 +3,7 @@ Based on the twitter sentiment analysis, it can be predicted that BJP(Mahayuti c
 upcoming election compared to Congress(MVA Alliance), given the more favorable sentiment reflected in the scores.
 
 It may also mean bot accounts were used to like the tweets.
+
 In some of the reports(like the one taken by sentiment) Congress was seen as winner.
 Overall the competition is expected to be tight.
 
