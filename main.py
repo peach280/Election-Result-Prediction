@@ -5,7 +5,6 @@ from textblob import TextBlob
 
 # Function to read tweets from CSV
 def read_tweets(file_path: str) -> list[dict[str, str]]:
-    # Try opening with UTF-8, fallback to ISO-8859-1 if that fails
     try:
         with open(file_path, "r", encoding="utf-8") as file:
             reader = csv.DictReader(file)
